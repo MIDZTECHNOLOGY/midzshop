@@ -629,7 +629,7 @@ margin-top: 160px;
     right: -6%;
   }
   .footer-banner-container{
-    height: 600px;
+    height: 630px;
     margin-top: 80px;
   }
   .footer-banner-image{
@@ -683,7 +683,7 @@ margin-top: 160px;
     height: 350px;
   }
   .cart-container{
-    width: 90vw;
+    width: 100%;
   padding: 4px;
   }
   .cart-heading{
